@@ -1,1 +1,0 @@
-Consider the this file cotaining bugs so that to reset back to the latest stable release
