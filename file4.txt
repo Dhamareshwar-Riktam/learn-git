@@ -1,1 +1,2 @@
 This is File 4 created on main branch with no conflicts
+This file is updated to create conflict
